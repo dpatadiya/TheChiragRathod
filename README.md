@@ -1,6 +1,6 @@
 ### Hi there, I'm Deep Patadiya 👋
 
-<img src="https://komarev.com/ghpvc/?username=thechiragrathod&label=Views&color=blue&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=dpatadiya&label=Views&color=blue&style=plastic" />
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" height="25px" width="25px"/>](https://twitter.com/DeepPatadiya)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" height="25px" width="25px"/>](https://www.linkedin.com/in/DeepPatadiya)
@@ -18,9 +18,8 @@
 - ⚡ Fun fact: I spend almost 6 hours playing video games everyday.
 
 
-[<img src="https://img.shields.io/twitter/follow/thechiragrathod?style=social"/>](https://twitter.com/TheChiragRathod)
-[<img src="https://img.shields.io/badge/-thechiragrathod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thechiragrathod"/>](https://www.linkedin.com/in/th)
-[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/TheChiragRathod)
+(https://www.linkedin.com/in/deep-patadiya-8886a1194/)
+[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/dpatadiya?tab=repositories)
 
 
 **Languages and Tools:**
@@ -42,6 +41,6 @@
 
 
  <a href="https://github.com/DeepPatadiya" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechiragrathod&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/dpatadiya?tab=repositories" ><img src="https://github-readme-stats.vercel.app/api?username=thechiragrathod&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepPatadiya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/dpatadiya?tab=repositories" ><img src="https://github-readme-stats.vercel.app/api?username=DeepPatadiya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
 
 ***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
