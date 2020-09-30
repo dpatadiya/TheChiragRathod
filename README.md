@@ -18,10 +18,6 @@
 - ⚡ Fun fact: I spend almost 6 hours playing video games everyday.
 
 
-(https://www.linkedin.com/in/deep-patadiya-8886a1194/)
-[<img src="https://img.shields.io/github/followers/iampawan?label=follow&style=social"/>](https://github.com/dpatadiya?tab=repositories)
-
-
 **Languages and Tools:**
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" align="left" height="25px" width="25px"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" height="25px" width="25px"/>
@@ -37,10 +33,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" align="left" height="25px" width="25px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" height="25px" width="25px"/>
 <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" align="left" height="25px" width="25px"/>
-
-
-
- <a href="https://github.com/DeepPatadiya" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepPatadiya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />  </a>     <a href="https://github.com/dpatadiya?tab=repositories" ><img src="https://github-readme-stats.vercel.app/api?username=DeepPatadiya&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> </a>
 
 ***<h3>Show some <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"  height="15px" width="15px"/> by starring some of the repositories!</h3>*** 
